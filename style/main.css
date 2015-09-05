@@ -1,18 +1,18 @@
 * {
   font-family: 'Ubuntu', sans-serif;
+  color: #333;
 }
 body {
   margin: 0;
-  background: #f0f0f1;
+  background: #F5EACD;
 }
 header {
-  background-color: #1fda9a;
+  background-color: #75A3D1;
   height: 100px;
   padding: 25px;
 }
 #title {
   text-decoration: none;
-  color: white;
   font-weight: 300;
   font-size: 50px;
   margin-left: 25px;
@@ -21,11 +21,22 @@ header {
 }
 a.nav {
   cursor: pointer;
+  font-size: .9em;
+  width: 90px;
 }
 a#navbutton {
   width: 0;
   height: 0;
+  z-index: 20;
 }
-ul#navlist {
-  padding-top: 50px;
+#navlist {
+  list-style-type: none;
+  padding-left: 10px;
+  margin: 0;
+  padding-top:50px;
+  background: #EE4B3E;
+  width: 100px;
+  padding-top: 0px;
+  z-index: 10;
+  width: 90px;
 }
