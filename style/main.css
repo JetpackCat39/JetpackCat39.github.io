@@ -1,0 +1,31 @@
+* {
+  font-family: 'Ubuntu', sans-serif;
+}
+body {
+  margin: 0;
+  background: #f0f0f1;
+}
+header {
+  background-color: #1fda9a;
+  height: 100px;
+  padding: 25px;
+}
+#title {
+  text-decoration: none;
+  color: white;
+  font-weight: 300;
+  font-size: 50px;
+  margin-left: 25px;
+  line-height: 100px;
+  position: absolute;
+}
+a.nav {
+  cursor: pointer;
+}
+a#navbutton {
+  width: 0;
+  height: 0;
+}
+ul#navlist {
+  padding-top: 50px;
+}
