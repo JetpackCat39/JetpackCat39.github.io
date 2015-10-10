@@ -9,4 +9,6 @@ td div {
     background-color: rgba(255, 255, 255, 0.5) !important;
     margin: 5px !important;
     border: none !important;
+    width: auto !important;
+    padding: 2px !important;
 }
