@@ -7,8 +7,11 @@ td#mal_cs_powered a {
 }
 td div {
     background-color: rgba(255, 255, 255, 0.5) !important;
-    margin: 5px !important;
+    margin: 0 auto !important;
     border: none !important;
     width: auto !important;
     padding: 2px !important;
+}
+td {
+    text-align: center !important;
 }
