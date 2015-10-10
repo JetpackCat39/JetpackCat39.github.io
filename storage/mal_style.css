@@ -26,3 +26,12 @@ div#search {
     width: 20% !important;
     margin: auto !important;
 }
+td#mal_cs_listinfo {
+    width: 20% !important;
+}
+strong {
+    font-weight: 500 !important;
+}
+small {
+    font-weight: 300 !important;
+}
