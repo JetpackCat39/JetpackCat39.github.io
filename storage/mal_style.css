@@ -1,3 +1,6 @@
+* {
+    padding: 0;
+}
 #mal_control_strip {
     background: #1fda9a !important;
     color: #f0f0f1 !important;
