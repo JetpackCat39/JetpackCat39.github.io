@@ -16,11 +16,10 @@ table#mal_control_strip tbody tr td {
 }
 div#search img {
     display: none !important;
+    width: 0 !important;
+    height: 0 !important;
 }
 div#search {
     width: 20% !important;
-}
-td#mal_cs_listinfo {
-    text-align: right !important;
-    width: 20% !important;
+    margin: auto !important;
 }
