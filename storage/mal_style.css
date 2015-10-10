@@ -6,12 +6,11 @@ td#mal_cs_powered a {
     display: none !important;
 }
 table#mal_control_strip tbody tr td div {
-    background-color: rgba(255, 255, 255, 0.5) !important;
     margin: 0 auto !important;
     border: none !important;
     width: auto !important;
     padding: 2px !important;
 }
-td {
+table#mal_control_strip tbody tr td {
     text-align: center !important;
 }
