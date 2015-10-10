@@ -1,10 +1,12 @@
 #mal_control_strip {
-    background: #f0f0f1 !important;
-    color: #4d4d4d !important;
+    background: #1fda9a !important;
+    color: #f0f0f1 !important;
 }
 td#mal_cs_powered a {
     display: none !important;
 }
 td#div {
     background-color: rgba(255, 255, 255, 0.5) !important;
+    margin: 5px !important;
+    border: none !important;
 }
