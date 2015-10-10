@@ -14,3 +14,13 @@ table#mal_control_strip tbody tr td div {
 table#mal_control_strip tbody tr td {
     text-align: center !important;
 }
+div#search img {
+    display: none !important;
+}
+div#search {
+    width: 20% !important;
+}
+td#mal_cs_listinfo {
+    text-align: right !important;
+    width: 20% !important;
+}
