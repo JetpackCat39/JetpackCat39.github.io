@@ -35,3 +35,11 @@ strong {
 small {
     font-weight: 300 !important;
 }
+input#searchBox {
+    appearance: none !important;
+    box-shadow: none !important;
+    border-radius: none !important;
+}
+input#searchBox:focus {
+    outline: none !important;
+}
